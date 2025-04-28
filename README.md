@@ -1,6 +1,6 @@
 # OpenWork whitepaper
 Reference for the openwork framework. Offer bounties for collaborative effort online and find paid work on GitHub and collaborative platforms
-[OpenWork](https://github.com/subastation/openwork)
+[⚙️OpenWork](https://github.com/subastation/openwork)
 [![Bounty €50](https://img.shields.io/badge/Bounty-%24500-gold)]
 [![Payment BankTransfer](https://img.shields.io/badge/Payment-BankTransfer-darkgreen)]
 [![Urgency High](https://img.shields.io/badge/Urgency-High-red)]
@@ -26,9 +26,9 @@ Reference for the openwork framework. Offer bounties for collaborative effort on
 ## 📜 How to use it
 
 1. **Put the badge in your project page**
-   - `OpenWork: This project uses OpenWork` 
-   - Users post the proof of completion
-   - Maintainers 
+   - `OpenWork: This project uses OpenWork`
+[⚙️OpenWork](https://github.com/subastation/openwork)
+This lets humans know you look for collaboration.
 
 2. **How is work paid off?**
    - Offer a reward for someone to do some work, respecting the OpenWork guidelines
