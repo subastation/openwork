@@ -27,16 +27,22 @@ Reference for the openwork framework. Offer bounties for collaborative effort on
 
 1. **Put the badge in your project page**
    - `OpenWork: This project uses OpenWork` 
+   - Users post the proof of completion
+   - Maintainers 
 
+2. **How is work paid off?**
+   - Offer a reward for someone to do some work, respecting the OpenWork guidelines
+   - Someone does the work for you and posts proof of its work, either with a picture or submitting an edit to a file. 
+   - The worker now shares its payment details with the requester, which pays what's due on acceptance and posts a closure
 
-2. **Add Visual Badges to Issues (Optional)**
+3. **Add Visual Badges and Labels to Issues (Optional)**
    - 💰 `Bounty: $<amount>` — specifies the bounty amount.
    - 🏷️ `Type: <Bug | Feature | Management | Research>` — describes the type of work.
    - 💸 `Payment: <Method>` — outlines payment method (PayPal, Wire, Crypto, Invoice, Other).
    - ⚡ `Urgency: <Low | Medium | High>` — indicates task priority.
    - Use [Shields.io](https://shields.io) or similar to create bounty badges for higher visibility.
 
-3. **Standardize Issue Templates as much as possible**
+4. **Standardize Issue Templates as much as possible**
    Each bounty issue should clearly state these info with the aim of being more searchable from the top bar:
      - Amount offered
      - Payment method
@@ -44,7 +50,7 @@ Reference for the openwork framework. Offer bounties for collaborative effort on
      - Conditions for acceptance
      - Contact information
 
-4. **Comment and propose changes**
+5. **Comment and propose changes**
 
 ---
 ## Example
