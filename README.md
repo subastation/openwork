@@ -47,6 +47,8 @@ Reference for the openwork framework. Offer bounties for collaborative effort on
 4. **Comment and propose changes**
 
 ---
+## Example
+Look at [this](https://github.com/subastation/openwork/issues/1) issue as an example
 
 ## 🏅 Example Badges
 
